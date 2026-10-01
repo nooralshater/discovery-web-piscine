@@ -1,0 +1,13 @@
+Edit → Add → Commit → Push
+
+1. Edit:
+   Create or modify the project files.
+
+2. Add:
+   git add <file>
+
+3. Commit:
+   git commit -m "commit message"
+
+4. Push:
+   git push

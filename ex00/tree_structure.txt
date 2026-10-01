@@ -1,0 +1,41 @@
+.:
+total 4
+drwxr-xr-x  5 nalshate _amman   77 Oct  1 10:56 .
+drwx------ 16 nalshate _amman 4096 Oct  1 10:35 ..
+drwxr-xr-x  2 nalshate _amman    6 Oct  1 10:04 archives
+drwxr-xr-x  3 nalshate _amman   17 Oct  1 10:54 projects
+drwxr-xr-x  2 nalshate _amman    6 Oct  1 10:04 tools
+-rw-r--r--  1 nalshate _amman    0 Oct  1 10:56 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 nalshate _amman  6 Oct  1 10:04 .
+drwxr-xr-x 5 nalshate _amman 77 Oct  1 10:56 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 nalshate _amman 17 Oct  1 10:54 .
+drwxr-xr-x 5 nalshate _amman 77 Oct  1 10:56 ..
+drwxr-xr-x 4 nalshate _amman 37 Oct  1 10:54 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 nalshate _amman 37 Oct  1 10:54 .
+drwxr-xr-x 3 nalshate _amman 17 Oct  1 10:54 ..
+drwxr-xr-x 2 nalshate _amman  6 Oct  1 10:54 backend
+drwxr-xr-x 2 nalshate _amman  6 Oct  1 10:54 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 nalshate _amman  6 Oct  1 10:54 .
+drwxr-xr-x 4 nalshate _amman 37 Oct  1 10:54 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 nalshate _amman  6 Oct  1 10:54 .
+drwxr-xr-x 4 nalshate _amman 37 Oct  1 10:54 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 nalshate _amman  6 Oct  1 10:04 .
+drwxr-xr-x 5 nalshate _amman 77 Oct  1 10:56 ..
